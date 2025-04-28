@@ -1,4 +1,4 @@
-Real-Time Violence Detection
+#Real-Time Violence Detection
 
 A deep learning-based system for detecting violent behavior in real-time video feeds, designed for smart surveillance and public safety. This project uses OpenCV for video processing, TensorFlow for neural network modeling, and Flask for a web-based interface to stream and display violence detection results.
 
@@ -9,7 +9,7 @@ This project detects violent behavior (e.g., fights, aggressive actions) in real
 The system is optimized for real-time performance and can be integrated into surveillance systems. A custom module (fun.invisibleMinds) handles additional preprocessing or inference logic (update with specifics if applicable, e.g., model loading or feature extraction).
 
 
-Technologies Used
+'Technologies Used'
 
 
 
